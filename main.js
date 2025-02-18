@@ -6,5 +6,6 @@ console.log(imageEl);
 
 buttonEl.addEventListener("click", function(){
     //console.log("Button Clicked");
-    imageEl.src="./img/yellow_lamp.png"}
+    imageEl.src="./img/yellow_lamp.png"
+    }
 )
